@@ -1,0 +1,30 @@
+.Form{
+    font-style:inherit;
+  background-color: rgb(12, 166, 166);
+  margin-right: 460px;
+  border-radius:3.5%;
+  border-color: rgb(236, 237, 242);
+  /* border-width:5%; */
+}
+#hedding{
+      margin-left: 80px;
+      font-style:inherit;
+      /* background-color: rgb(8, 100, 100); */
+      margin-right: 90px;
+      /* border-radius:5%; */
+}
+.button{
+    background-color: #F9F157;
+    /* margin-left: 150px; */
+    width: 63%;
+    height: 30px;
+    border-color:azure;
+}
+
+.Form{
+    margin-left: 450px;
+}
+
+#content{
+    margin-left: 40px;
+}
